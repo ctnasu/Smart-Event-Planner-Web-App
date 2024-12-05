@@ -70,11 +70,21 @@ Admin paneli, yöneticilerin kullanıcıları ve etkinlikleri yönetebileceği b
 ---
 
 Bu proje, kullanıcıların etkinliklere katılımını teşvik ederken aynı zamanda kişiselleştirilmiş öneriler ve harita desteği sunarak daha etkileşimli bir sosyal deneyim sağlar.
+
 ![Uploading Ekran Resmi 2024-12-05 23.23.31.png…]()
-![Uploading Ekran Resmi 2024-12-05 23.37.10.png…]()
+
+<img width="1440" alt="Ekran Resmi 2024-12-05 23 37 10" src="https://github.com/user-attachments/assets/efcabddf-7284-4d1b-ad81-a9f676fb800c">
+
 ![Uploading Ekran Resmi 2024-12-05 23.37.43.png…]()
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 38 36" src="https://github.com/user-attachments/assets/e7537064-0097-4bd3-9664-80cc90072570">
+
+![Uploading Ekran Resmi 2024-12-05 23.37.56.png…]()
+
+![Uploading Ekran Resmi 2024-12-05 23.38.36.png…]()
+
 ![Uploading Ekran Resmi 2024-12-05 23.38.08.png…]()
+
+![Uploading Ekran Resmi 2024-12-05 23.41.05.png…]()
+
 ![Uploading Ekran Resmi 2024-12-05 23.41.35.png…]()
 
 
