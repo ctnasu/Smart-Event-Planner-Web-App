@@ -53,7 +53,7 @@ Kullanıcıların ilgi alanlarına, etkinlik geçmişlerine ve bulundukları kon
 - **Coğrafi Konum Kuralı**: Kullanıcının bulunduğu konuma yakın etkinlikler önerilir.
 
 ## Harita ve Rota Planlama
-Etkinliklerin konumları **Google Maps API** kullanılarak harita üzerinde işaretlenmiş ve kullanıcılar en uygun rotayı seçebilirler. Kullanıcılar farklı ulaşım yöntemleri (yürüyerek, araçla, bisikletle vb.) için alternatif rota seçeneklerini görebilirler.
+Etkinliklerin konumları **Google Maps API** kullanılarak harita üzerinde işaretlenmiş ve kullanıcılar en uygun rotayı seçebilirler. Nasıl giderim? butonuna tıklandığında etkinlik konumunun google haritalardaki bölgesini gösterir.Kullanıcılar farklı ulaşım yöntemleri (yürüyerek, araçla, bisikletle vb.) için alternatif rota seçeneklerini görebilirler.
 
 ## Oyunlaştırma ve Puan Sistemi
 Etkinliklere katılımı teşvik etmek için bir **puanlama sistemi** geliştirilmiştir. Kullanıcılar etkinliklere katıldıkça, etkinlik oluşturdukça ve platforma ilk kez katıldıklarında puan kazanacaklardır. Kazanılan puanlar kullanıcı profillerinde gösterilecek ve etkinlik katılımını teşvik edecektir.
@@ -70,3 +70,12 @@ Admin paneli, yöneticilerin kullanıcıları ve etkinlikleri yönetebileceği b
 ---
 
 Bu proje, kullanıcıların etkinliklere katılımını teşvik ederken aynı zamanda kişiselleştirilmiş öneriler ve harita desteği sunarak daha etkileşimli bir sosyal deneyim sağlar.
+![Uploading Ekran Resmi 2024-12-05 23.23.31.png…]()
+![Uploading Ekran Resmi 2024-12-05 23.37.10.png…]()
+![Uploading Ekran Resmi 2024-12-05 23.37.43.png…]()
+<img width="1440" alt="Ekran Resmi 2024-12-05 23 38 36" src="https://github.com/user-attachments/assets/e7537064-0097-4bd3-9664-80cc90072570">
+![Uploading Ekran Resmi 2024-12-05 23.38.08.png…]()
+![Uploading Ekran Resmi 2024-12-05 23.41.35.png…]()
+
+
+
