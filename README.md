@@ -70,23 +70,5 @@ Admin paneli, yöneticilerin kullanıcıları ve etkinlikleri yönetebileceği b
 ---
 
 
-https://github.com/user-attachments/assets/f06b9930-7060-4530-b484-d8ef5f12dada
-
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 23 31" src="https://github.com/user-attachments/assets/b2ef21ff-cb30-4452-8651-4d98a9d86256">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 37 10" src="https://github.com/user-attachments/assets/efcabddf-7284-4d1b-ad81-a9f676fb800c">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 37 43" src="https://github.com/user-attachments/assets/e435601f-0ff5-49c4-9779-38107a5e4543">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 37 56" src="https://github.com/user-attachments/assets/18c518e9-5ab5-4824-bdd7-52b86f098dd4">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 38 36" src="https://github.com/user-attachments/assets/fdc49315-33d3-416a-b2ec-6a7e7db5182a">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 38 08" src="https://github.com/user-attachments/assets/e311ef39-fd47-4081-bec6-1131c26a628f">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 41 05" src="https://github.com/user-attachments/assets/035bd736-2d4b-4974-b490-abd667d651ed">
-
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 41 35" src="https://github.com/user-attachments/assets/ef97230e-9806-4fa9-a625-f22e0c2ed250">
-
+https://github.com/user-attachments/assets/1e9780a0-96c3-4ef0-8e9d-b0916274c462
 
