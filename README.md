@@ -70,12 +70,12 @@ Admin paneli, yöneticilerin kullanıcıları ve etkinlikleri yönetebileceği b
 ---
 
 Bu proje, kullanıcıların etkinliklere katılımını teşvik ederken aynı zamanda kişiselleştirilmiş öneriler ve harita desteği sunarak daha etkileşimli bir sosyal deneyim sağlar.
+
 <img width="1440" alt="Ekran Resmi 2024-12-05 23 23 31" src="https://github.com/user-attachments/assets/b2ef21ff-cb30-4452-8651-4d98a9d86256">
 
-
 <img width="1440" alt="Ekran Resmi 2024-12-05 23 37 10" src="https://github.com/user-attachments/assets/efcabddf-7284-4d1b-ad81-a9f676fb800c">
-<img width="1440" alt="Ekran Resmi 2024-12-05 23 37 43" src="https://github.com/user-attachments/assets/e435601f-0ff5-49c4-9779-38107a5e4543">
 
+<img width="1440" alt="Ekran Resmi 2024-12-05 23 37 43" src="https://github.com/user-attachments/assets/e435601f-0ff5-49c4-9779-38107a5e4543">
 
 <img width="1440" alt="Ekran Resmi 2024-12-05 23 37 56" src="https://github.com/user-attachments/assets/18c518e9-5ab5-4824-bdd7-52b86f098dd4">
 
@@ -85,7 +85,6 @@ Bu proje, kullanıcıların etkinliklere katılımını teşvik ederken aynı za
 
 <img width="1440" alt="Ekran Resmi 2024-12-05 23 41 05" src="https://github.com/user-attachments/assets/035bd736-2d4b-4974-b490-abd667d651ed">
 
-<img width="1440" alt="Ekran Resmi 2024-12-06 00 46 35" src="https://github.com/user-attachments/assets/7a2b3691-ec7d-4fa3-9d66-07360a5d8590">
-
+<img width="1440" alt="Ekran Resmi 2024-12-05 23 41 35" src="https://github.com/user-attachments/assets/ef97230e-9806-4fa9-a625-f22e0c2ed250">
 
 
