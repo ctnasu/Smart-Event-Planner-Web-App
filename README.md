@@ -69,7 +69,9 @@ Admin paneli, yöneticilerin kullanıcıları ve etkinlikleri yönetebileceği b
 
 ---
 
-Bu proje, kullanıcıların etkinliklere katılımını teşvik ederken aynı zamanda kişiselleştirilmiş öneriler ve harita desteği sunarak daha etkileşimli bir sosyal deneyim sağlar.
+
+https://github.com/user-attachments/assets/f06b9930-7060-4530-b484-d8ef5f12dada
+
 
 <img width="1440" alt="Ekran Resmi 2024-12-05 23 23 31" src="https://github.com/user-attachments/assets/b2ef21ff-cb30-4452-8651-4d98a9d86256">
 
