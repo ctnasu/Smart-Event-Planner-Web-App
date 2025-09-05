@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/1e9780a0-96c3-4ef0-8e9d-b0916274c462
-
 
 # Akıllı Etkinlik Planlama Platformu
 
@@ -73,3 +71,5 @@ Etkinliklere katılan kullanıcılar, etkinlik sayfası üzerinden birbirleriyle
 Admin paneli, yöneticilerin kullanıcıları ve etkinlikleri yönetebileceği bir alandır. Adminler, etkinlikleri onaylayabilir, düzenleyebilir veya silebilirler. Ayrıca, kullanıcı geri bildirimlerini toplama ve analiz etme işlevlerine de sahiptir.
 
 ---
+
+https://github.com/user-attachments/assets/1e9780a0-96c3-4ef0-8e9d-b0916274c462
