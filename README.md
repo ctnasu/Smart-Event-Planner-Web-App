@@ -25,7 +25,7 @@ Frontend kısmı, kullanıcıların etkinliklere kolayca erişebileceği, etkinl
 - **Admin Paneli**: Yöneticiler kullanıcıları ve etkinlikleri yönetebilir, düzenleyebilir veya silebilirler.
 - **Harita Görünümü**: Etkinliklerin konumları harita üzerinde gösterilir, kullanıcılar etkinliklere kolayca ulaşabilirler.
 
-Frontend, **HTML**, **CSS** ve **JavaScript** ile geliştirilmiş olup, **Django** ile entegre çalışacak şekilde yapılandırılmıştır.
+Frontend, **HTML**, **CSS**, **JavaScript** ve **React** kullanılarak geliştirilmiş olup, **Django** ile entegre çalışacak şekilde yapılandırılmıştır.  
 
 ## Backend Geliştirme
 Backend kısmı, kullanıcı yönetimi, etkinlik oluşturma, etkinlik öneri sistemleri, mesajlaşma ve harita entegrasyonu gibi işlemleri gerçekleştiren sunucu tarafıdır. Bu kısımda **Django framework’ü** ve **Python** dili kullanılmıştır. Backend kısmında yönetilen ana işlevler şunlardır:
